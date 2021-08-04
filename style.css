@@ -381,7 +381,7 @@ p {
 }
 
 /* Responsive columns */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1025px) {
   h5 {
     font-size: 1rem !important;
   }
